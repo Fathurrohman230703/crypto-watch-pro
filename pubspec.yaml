@@ -47,8 +47,6 @@ dependencies:
   go_router: ^16.2.1
 
   # Local Database
-  isar: ^3.1.8
-  isar_flutter_libs: ^3.1.8
   path_provider: ^2.1.5
 
   # JSON
@@ -68,7 +66,6 @@ dev_dependencies:
 
   build_runner: ^2.5.4
   json_serializable: ^6.9.5
-  isar_generator: ^3.1.8
 
   bloc_test: ^10.0.0
   mocktail: ^1.0.4
